@@ -41,7 +41,7 @@ This Python script is designed to parse Amazon VPC logs stored in text files, cl
 
 2. **Run in Interactive Mode**:
     ```bash
-    python vpc_log_parser.py -i
+    python processLogs.py -i
     ```
     - Follow the prompts to enter custom log format, filename, and lookup table.
 
